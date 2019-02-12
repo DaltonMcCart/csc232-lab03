@@ -4,7 +4,6 @@
  *
  * @file    TopDownFibCalculator.h
  * @authors Jim Daehn <jdaehn@missouristate.edu>
- *          Your Name <yname@missouristate.edu>
  * @brief   Specification of TopDownFibCalculator.
  */
 
@@ -12,6 +11,12 @@
 #define LAB03_TOP_DOWN_FIB_CALCULATOR_H__
 
 #include "FibCalculator.h"
+#include <iostream>
+#include <map>
+#include <memory>
+#include "TopDownFibCalculator.h"
+#include "BottomUpFibCalculator.h"
+
 
 /**
  * An implementation of the <code>FibCalculator</code> that uses top-down dynamic programming approaches where

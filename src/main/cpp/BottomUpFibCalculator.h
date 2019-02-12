@@ -12,6 +12,12 @@
 #define LAB03_BOTTOM_UP_FIB_CALCULATOR_H__
 
 #include "FibCalculator.h"
+#include <iostream>
+#include <map>
+#include <memory>
+#include "TopDownFibCalculator.h"
+#include "BottomUpFibCalculator.h"
+
 
 /**
  * An implementation of the <code>FibCalculator</code> that uses bottom-up dynamic programming approaches where

@@ -4,6 +4,7 @@
  *
  * @file   Main.cpp
  * @author Jim Daehn <jdaehn@missouristate.edu>
+ *         Dalton McCart <dmm42@live.missouristate.edu>
  * @file   Main.cpp
  * @brief  Lab 3; and exploration of dynamic programming approaches to the
  *         Fibonacci sequence.
